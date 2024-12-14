@@ -16,4 +16,5 @@ int main()
     cin >>tosi;
     cout << "なるほど。" << tosi << "歳ですか。" << endl;
     cout << "私はもうすぐ2歳のマシンです。"<<endl;
+    return 0
 }
